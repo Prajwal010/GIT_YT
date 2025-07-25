@@ -1,4 +1,4 @@
-new dev joined...
+new dev joined...(bug is fixxed)
 
 
 working hard on big new data
